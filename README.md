@@ -3,7 +3,7 @@
 ### Very Keen to Learn New Tech
 
 - 🔭 I’m currently working on Snowflake, Database and more 
-- 🌱 I’m currently learning R and tableau 
+- 🌱 I’m currently learning R and Big Data Technogies 
 
 
 
